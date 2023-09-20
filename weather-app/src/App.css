@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  margin-top: 5%;
+  font-family: Arial;
+  
+}
+body {
+  background: linear-gradient(0.25turn, #3f979b, #ebf8e1);
+}

@@ -1,0 +1,10 @@
+.CityWeather{
+    font-weight: bolder;
+    font-size: x-large;
+    color: rgb(8, 52, 91);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cityName{
+    color: rgb(8, 52, 91);
+    font-size:x-large;
+}
