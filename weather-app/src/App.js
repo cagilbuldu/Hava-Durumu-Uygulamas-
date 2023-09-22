@@ -5,7 +5,7 @@ import City from './City';
 
 
 function App() {
-  const key = "84a91b51124f2bc14e2104a40efa11c9";
+  const key = "a1b14973fc6f01c26d6500e5d36ed080";
   const [search, setSearch] = useState("");
   const [city, setCity] = useState();
   useEffect(() => {
